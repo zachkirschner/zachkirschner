@@ -27,9 +27,9 @@
 
 - 👨‍🏫 I’m currently apart of the <b>**ITS Academy**</b>
 
-- 🌱 I’m currently learning: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70"/>
+- 🌱 I’m currently learning: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55"/>
 
-- 📜 I'm certified in: <a href="https://www.credly.com/badges/b533da2c-a57b-49dd-8232-428eac6cbc49/linked_in_profile" target="blank"><img src="https://images.credly.com/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="csharp" width="70" height="70"/>
+- 📜 I'm certified in: <a href="https://www.credly.com/badges/b533da2c-a57b-49dd-8232-428eac6cbc49/linked_in_profile" target="blank"><img src="https://images.credly.com/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="csharp" width="55" height="55"/>
 
 
 <h2 align="left">Some of skills</h2>
