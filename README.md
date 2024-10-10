@@ -34,15 +34,15 @@
 
 <h2 align="left">𝚂𝚘𝚖𝚎 𝚘𝚏 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜 𝚒𝚗𝚌𝚕𝚞𝚍𝚎:</h2>
 
-- ɴᴇᴛᴡᴏʀᴋ ꜱᴇᴄᴜʀɪᴛʏ
+- Network Security
 
-- ɢʀᴄ
+- Threat Hunting
 
-- ꜱQʟ/ᴋQʟ
+- SQL/KQL
 
-- ᴀᴢᴜʀᴇ
+- Vulnerability Scanning
 
-- ᴘᴏᴡᴇʀꜱʜᴇʟʟ
+- AD Management
 
 
 <p align="left"> <a href="https://jmfamily.com"><img src="https://i.giphy.com/O07VRy6zhkpVf2Nvus.webp" alt="zachkirschner" width="200" height="100" /> </p>
